@@ -1,14 +1,14 @@
 {
     "image1": "./assets/vanillamc.png",
-    "content1": "VanillaMC Season 4 released! This new season introduces a ton of new mechanics and features, including custom enchants, custom items, and more!",
+    "content1": "VanillaMC Season 4 released! This new season introduces many new features such as custom enchants, custom items, and more!",
     "author1": "VanillaMC",
     "date1": "2023-12-27",
     "image2": "https://www.shutterstock.com/image-vector/rocket-launch-business-boost-take-260nw-1838415391.jpg",
-    "content2": "VanillaLauncher v1.0.0 released! This is the very first version of VanillaLauncher. It's still in beta, so bugs or issues are to be expected.",
+    "content2": "Vanilla Launcher v1.0.0 released make sure to tell your friends! The launcher is still in its beta so make sure to report any bugs or issues you encounter.",
     "author2": "VanillaLauncher",
     "date2": "2024-12-27",
     "image3": "https://minecraftforfreex.com/images/eagtek.png",
-    "content3": "EaglercraftX 1.8 u46 released. * Fix pointer lock issue (sorta) * WASM client autosave the world",
+    "content3": "EaglercraftX 1.8 u46 released. Fixed WASM not autosaving world when tab closed, fixed pointer lock issue, unnecessary normalization in some fragment shaders fixed.",
     "author3": "EaglercraftX",
     "date3": "2024-12-25"
 }
