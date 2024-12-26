@@ -10,5 +10,15 @@
     "image3": "https://64.media.tumblr.com/3ec9605f87ac23c5abefa1ac520e07d7/tumblr_pf2nhqgk711v8px6jo1_1280.png",
     "content3": "EaglercraftX 1.8 u46 released. Fixed WASM not autosaving world when tab closed, fixed pointer lock issue, unnecessary normalization in some fragment shaders fixed.",
     "author3": "EaglercraftX",
-    "date3": "2024-12-25"
+    "date3": "2024-12-25",
+    "staff": [
+        {
+            "name": "EmperorJR",
+            "image": "https://skins.mcstats.com/face/8667ba71-b85a-4004-af54-457a9734eed7"
+        },
+        {
+            "name": "Placeholder",
+            "image": "https://skins.mcstats.com/face/8667ba71-b85a-4004-af54-457a9734eed7"
+        }
+    ]
 }
